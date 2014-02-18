@@ -95,6 +95,11 @@ img {
   max-width:100%;
 }
 
+img.resize{
+    width:540px; 
+    height: auto;
+}
+
 header {
   width:270px;
   float:left;
