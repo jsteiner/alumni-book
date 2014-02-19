@@ -1,10 +1,13 @@
 - id: "adam"
   name: Adam Patterson
-  adjectives: "Curious, introverted, personable"
+  adjectives: "curious, introverted, personable"
   favourite_movie: Shaun of the Dead
   favourite_person: "Joseph Campbell. As someone embarking on a journey that will ideally alter my path for the better, I would love to learn and receive guidance from a man that examined who we are at our core and why we seek what we seek. I believe that many (if not all) of us in this program are here because it is the next step in discovering our own path, and I am certainly no different."
   skill: "How to slap and pop on a bass guitar."
   surprise: "I am unable to ride a bicycle."
+  twitter: "peterson0012"
+  linkedin: "http://www.linkedin.com/pub/adam-patterson/5b/37b/614"
+  other: 
 
 - id: "alex"
   name: Alex Fox
@@ -13,6 +16,9 @@
   favourite_person: "I'd like to have dinner with Winston Churchill. He was an incredibly smart man and a great leader, and I've read that he was quite the jokester as well. We'd have a good dinner, probably some delicious steaks, medium rare, and we'd dine at Buckingham Palace. Afterwards, we'd smoke a cigar and drink whiskey, while discussing the politics of Nazi Germany and WW2 wartime strategies."
   skill: "Draw cubes...make egg drop ramen...start a fire with some logs, lighter fluid, and a match...yeah, I'm pretty skilled."
   surprise: "I'm terrible at math. Writing is my forte, I have a degree in History. People are surprised to hear this when I say I want to go into the computer programming field."
+  twitter: 
+  linkedin: "http://www.linkedin.com/pub/alex-fox/20/157/185"
+  other: 
 
 - id: "david"
   name: David Gilligan
@@ -21,6 +27,9 @@
   favourite_person: Tesla
   skill: "How to take over the world. Board games (all of them). Detecting logical fallacies. How to be a cat. How to avoid stupid political conversations. How to be awesome. Warhammer. Magic. How to be a (censored) sorcerer. How to drop mad rhymes (but for real). What irony actually means. The art of word play. The dangers of poor grammar. How to light fireworks with cigars. Flaming tennis. (censored)"
   surprise: "I got a different friend to fill out each of the previous questions (Some of them were edited for content or clarity, and it seems my friend who answered the 'skills' question enjoys breaking the rules...) I think I learned a little about myself in the process, and hopefully you've learned a little about me too!"
+  twitter: "euraldius"
+  linkedin: "http://www.linkedin.com/pub/david-gilligan/54/975/215"
+  other: "http://www.sburbanlifestyle.com/stories/category/holders/"
 
 - id: "derek"
   name: Derek Kaknes
@@ -29,3 +38,138 @@
   favourite_person: "I would have to choose Hernan Cortes. I read a biography of Cortes and was blown away by his story - he led a small group of Spaniards deep into Mexico to topple the Aztec empire and capture their capital city, which was the largest city in the world at the time. The man was certainly flawed and committed some terrible atrocities, but his sheer audacity, determination and fanatical religious devotion were astounding. It's hard to admire a man like that, but I can't think of a person who would provide more interesting dinner conversation than Cortes."
   skill: "Investment banking! Our modern financial system is so incredibly screwed up that I think it imperative that every person with a bank account understands exactly how their deposits are being whisked across the globe by their banks."
   surprise: "I'm an identical twin. My twin brother, Nick, is a medical resident in Miami, FL."
+  twitter: "StealthMountain"
+  linkedin: "http://www.linkedin.com/pub/adam-patterson/5b/37b/614"
+  other: 
+
+- id: "dorothy"
+  name: Dorothy Thurston
+  adjectives: "silly, easygoing, chill"
+  favourite_movie: "Moulin Rouge"
+  favourite_person: "No one! Breakfast is the best meal of the day. I would, however, have breakfast with Lincoln. "
+  skill: "How to roll your r's" 
+  surprise: "I've never had a pet dog or cat."
+  twitter: 
+  linkedin: 
+  other:
+
+- id: "jatin"
+  name: Jatin Baharandi
+  adjectives: "adaptable, devoted, ccandid"
+  favourite_movie: "V for Vendetta"
+  favourite_person: "Sir Winston Churchill. During a turbulent period in the history of humanity, Churchill captivated the entire world as the leader of the United Kingdom. He was fearless, calculated, and a wizard with his words in the geo-political arena.  Surely a person with that much clout would serve as a great dinner guest."
+  skill: "How to turn one hundred dollars into zero. How survive in the wilderness, with a fully loaded RV. How to keep it real. How to live in a city with a crack-smoking mayor (TORONTO STAND UP!)." 
+  surprise: "I have training in classical Indian drumming and can break it down!"
+  twitter: "g2jatin"
+  linkedin: "http://www.linkedin.com/in/jatinbhandari"
+  other:  
+
+- id: "jeremy"
+  name: Jeremy Salig
+  adjectives: "inquisitive, curious, spiritual"
+  favourite_movie: "The Big Lebowski"
+  favourite_person: "Steve Jobs - not so much because he was the CEO of Apple. More because he had an insightful way of looking at the world and the roles we choose to play in it."
+  skill: "How to change/re-wire a light ballast." 
+  surprise: "I've driven across the country 4 times. The last time I did it completely on my own."
+  twitter: "jeremysalig"
+  linkedin: "http://www.linkedin.com/pub/jeremy-salig/1a/4b3/97a"
+  other:  
+
+- id: "jesse"
+  name: Jesse Waites
+  adjectives: "engineer, artist, reader."
+  favourite_movie: "Primer / Upstream Colour"
+  favourite_person: "I would have dinner with John Lennon. He and the other Beatles were the first to experience that level of fame and I think it would make for great dinner conversation."
+  skill: "Effectively interacting with the press/media." 
+  surprise: "I can independently raise my right eyebrow."
+  twitter: "JesseWaites"
+  linkedin: "http://www.linkedin.com/pub/jeremy-salig/1a/4b3/97a"
+  other: "https://medium.com/how-i-learned-ruby-rails/5783b7362064" 
+
+- id: "johnb"
+  name: John Bagdley
+  adjectives: "curious, sarcastic, night-owl"
+  favourite_movie: "Step brothers"
+  favourite_person: "Bill Clinton.  You could ask him one question, and get a long, insightful response that that takes up the rest of the night."
+  skill: "How to crochet a small amigurumi animal." 
+  surprise: "I used to live in Florida.  I left because I didn't like the weather."
+  twitter: "wildcard76"
+  linkedin: "http://www.linkedin.com/in/johnbagley"
+  other:  
+
+- id: "johnm"
+  name: John Mazzoli 
+  adjectives: "honest, funny, contemplative"
+  favourite_movie: "The Count of Monte Cristo"
+  favourite_person: "Andrew Jackson. Even though he made a bunch of dubious moral choices, he kept a country falling towards civil war together and he was a total badass. Plus, he had great hair."
+  skill: "How to play and succeed at Spikeball." 
+  surprise: "I hate peanut butter."
+  twitter: "John_Mazzoli"
+  linkedin: "http://www.linkedin.com/profile/view?id=261002301&trk=nav_responsive_tab_profile"
+  other:  
+
+- id: "justin"
+  name: Justin Kenyon 
+  adjectives: "curious, musician, dreamer"
+  favourite_movie: "Shawshank Redemption"
+  favourite_person: "I have been really deep into an Ancestry.com hole as of late and would love to meet my great grandfather from Ireland. I would ask him about life in America back then and definitely get some pictures of the family."
+  skill: "Installing an aftermarket stereo in your car. Or, something that can be done inside: a great card trick that ends in me slapping cards out of your hand and leaving the card you picked." 
+  surprise: "I am the lead singer in a band that has been playing in the Boston area over the last 10 years ... and I am huge fan of karaoke outings."
+  twitter: "Kenyonj"
+  linkedin: "http://www.linkedin.com/in/justinpkenyon"
+  other: "http://music.twentyeightmusic.com" 
+
+- id: "lisa"
+  name: Lisa-Maria Mehta
+  adjectives: "curious, analytical, silly"
+  favourite_movie: "To Kill a Mockingbird"
+  favourite_person: "Elizabeth Warren:  She is both brilliant and compassionate, a rare combination for a person with power.  She has the mental ability to understand complex problems, come up with reasonable solutions, and has the clout to get them implemented.  Furthermore, she seems very approachable which is important for a shy-ish person like myself."
+  skill: "How to buy a home that you'll be happy in." 
+  surprise: "Despite being clumsy and artistically-challenged, I'm quite crafty.  My kids and I have made over 50 duct tape wallets and have knit dozens of hats/scarves/slippers.  We make origami Christmas tree ornaments and Halloween costumes every year. Just don't ask me to draw."
+  twitter: "jplisamaria"
+  linkedin: "http://www.linkedin.com/pub/lisa-maria-mehta/69/bba/a37/"
+  other: 
+
+- id: "michael"
+  name: Michael Langer
+  adjectives: "determined, adventurous, funny."
+  favourite_movie: "Gladiator"
+  favourite_person: "Arnold schwarzenegger. He has done everything. He revolutionized weight lifting. He is a successful actor. He is a lucrative business man. And he served 8 years as a politician. I cannot imagine anyone who has experienced and done that much variety in their lives."
+  skill: "Gain 10 pounds of muscle in 8 weeks." 
+  surprise: "II plan every hour of every day out."
+  twitter: "Doctorlanger"
+  linkedin: "http://www.linkedin.com/pub/michael-langer/8b/160/181"
+  other: "http://langermichaellanger.blogspot.com" 
+
+- id: "moshe"
+  name: Moshe Cole
+  adjectives: "honest, funny, contemplative"
+  favourite_movie: "Tombstone"
+  favourite_person: "I would have dinner with Chotoku Kyan. Mr. Kyan was one of the greatest Okinawan masters and standing at 4'9 and a hefty 90lbs reportedly never lost a fight. He was also known for being kind and generous. Mr. Kyan is said to have died from starvation after the Battle of Okinawan due to giving his food to hungry children."
+  skill: "How to travel using points and miles." 
+  surprise: "I met my wife in a car accident."
+  twitter: 
+  linkedin: "www.linkedin.com/pub/moshe-cole/8b/878/2a3/"
+  other: "http://www.shobayashi-kan.org 
+
+- id: "rich"
+  name: Rich Bowman
+  adjectives: "inquisitive, curious, spiritual"
+  favourite_movie: "Jaws"
+  favourite_person: "Hunter S. Thompson.  Brilliant observationalist and writer, particularly on politics.  Legendary personality.  It certainly wouldn't be boring."
+  skill: "How to make a perfect philly cheesesteak." 
+  surprise: "I hate driving more than just about anything else in the entire world."
+  twitter: "BostonREB99"
+  linkedin: "http://www.linkedin.com/pub/richard-bowman/5/856/288"
+  other: 
+
+- id: "sonia"
+  name: Sonia Espinosa
+  adjectives: "energetic, determined, adventure seeker"
+  favourite_movie: "The Pursuit of Happyness"
+  favourite_person: "Pharrel Williams. He is an amazing mind. Some of his projects include: I am Other, Billionaire Boy's Club, Soundtrack for Despicable Me."
+  skill: "Cook a tasty salmon!" 
+  surprise: "I love hot chocolate."
+  twitter: "xtabayy"
+  linkedin: "http://www.linkedin.com/profile/view?id=102687301&trk=nav_responsive_tab_profile"
+  other: 
