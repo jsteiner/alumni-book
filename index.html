@@ -20,18 +20,76 @@ layout: default
     </h2>
     
     <p><em>{{ student.adjectives }}</em></p>
-
-    <p><strong>What's your favourite movie?</strong></p>
-    <p>{{ student.favourite_movie }}</p>
-
-    <p><strong>If you could have dinner with one person, dead or alive, who would it be and why?</strong></p>
-    <p>{{ student.favourite_person }}</p>
+    <div>
+      <p><strong>What's your favourite movie?</strong></p>
+      <p>{{ student.favourite_movie }}</p>
+    </div>
     
-    <p><strong>What's one skill that you could teach everyone else in class?</strong></p>
-    <p>{{ student.skill }}</p>
-    
-    <p><strong>What is the one thing about you that people would be surprised to learn?</strong></p>
-    <p>{{ student.surprise }}</p>
+    <div>
+      <p><strong>If you could have dinner with one person, dead or alive, who would it be and why?</strong></p>
+      <p>{{ student.favourite_person }}</p>
+    </div>
+
+    <div>
+      <p><strong>What's one skill that you could teach everyone else in class?</strong></p>
+      <p>{{ student.skill }}</p>
+    </div>
+    <div>
+      <p><strong>What is the one thing about you that people would be surprised to learn?</strong></p>
+      <p>{{ student.surprise }}</p>
+    </div>
+
   </div>
+
 </section>
+
 {% endfor %}
+
+<hr>
+<hr>
+
+
+{% for staff in site.data.staff %}
+
+<section class='student-bio'>
+<hr>
+  <span class='student-info'>
+    <img class="profile-photo" src="images/{{ staff.id }}.jpg">
+    <div class="social">
+      <a href="http://www.twitter.com/{{ staff.twitter }}"><img src="images/twitter.png" class="social"></a>
+      <a href="{{ staff.linkedin }}"><img src="images/linkedin.png" class="social"></a>
+      <a href="{{ staff.other }}"><img src="images/other.png" class="social"></a>
+    </div>
+  </span>
+  
+  <div class='questions'>
+    <h2>
+      <a name="{{ staff.id }}" class="anchor" href="#{{ staff.id }}"><span class="octicon octicon-link"></span></a>{{ staff.name }}
+    </h2>
+    
+    <p><em>{{ staff.adjectives }}</em></p>
+    <div>
+      <p><strong>What's your favourite movie?</strong></p>
+      <p>{{ staff.favourite_movie }}</p>
+    </div>
+    
+    <div>
+      <p><strong>If you could have dinner with one person, dead or alive, who would it be and why?</strong></p>
+      <p>{{ staff.favourite_person }}</p>
+    </div>
+
+    <div>
+      <p><strong>What's one skill that you could teach everyone else in class?</strong></p>
+      <p>{{ staff.skill }}</p>
+    </div>
+    <div>
+      <p><strong>What is the one thing about you that people would be surprised to learn?</strong></p>
+      <p>{{ staff.surprise }}</p>
+    </div>
+
+  </div>
+
+</section>
+
+{% endfor %}
+

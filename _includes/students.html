@@ -6,16 +6,54 @@
     
     <p><em>{{ student.adjectives }}</em></p>
     <p><img src="images/{{ student.id }}.jpg"></p>
-    <p><strong>What's your favourite movie?</strong></p>
-    <p>{{ student.favourite_movie }}</p>
     
-    <p><strong>If you could have dinner with one person, dead or alive, who would it be and why?</strong></p>
-    <p>{{ student.favourite_person }}</p>
+    <div>
+      <p><strong>What's your favourite movie?</strong></p>
+      <p>{{ student.favourite_movie }}</p>
+    </div>
     
-    <p><strong>What's one skill that you could teach everyone else in class?</strong></p>
-    <p>{{ student.skill }}</p>
+    <div>
+      <p><strong>If you could have dinner with one person, dead or alive, who would it be and why?</strong></p>
+      <p>{{ student.favourite_person }}</p>
+    </div>
     
-    <p><strong>What is the one thing about you that people would be surprised to learn?</strong></p>
-    <p>{{ student.surprise }}</p>
+    <div>
+      <p><strong>What's one skill that you could teach everyone else in class?</strong></p>
+      <p>{{ student.skill }}</p>
+    </div>
+    <div>
+      <p><strong>What is the one thing about you that people would be surprised to learn?</strong></p>
+      <p>{{ student.surprise }}</p>
+    </div>
+  </section>
+{% endfor %}
+
+{% for staff in site.data.staff %}
+  <section>
+    <h3>
+      <a name="{{ staff.id }}" class="anchor" href="#{{ staff.id }}"><span class="octicon octicon-link"></span></a>{{ staff.name }}
+    </h3>
+    
+    <p><em>{{ staff.adjectives }}</em></p>
+    <p><img src="images/{{ staff.id }}.jpg"></p>
+    
+    <div>
+      <p><strong>What's your favourite movie?</strong></p>
+      <p>{{ staff.favourite_movie }}</p>
+    </div>
+    
+    <div>
+      <p><strong>If you could have dinner with one person, dead or alive, who would it be and why?</strong></p>
+      <p>{{ staff.favourite_person }}</p>
+    </div>
+    
+    <div>
+      <p><strong>What's one skill that you could teach everyone else in class?</strong></p>
+      <p>{{ staff.skill }}</p>
+    </div>
+    <div>
+      <p><strong>What is the one thing about you that people would be surprised to learn?</strong></p>
+      <p>{{ staff.surprise }}</p>
+    </div>
   </section>
 {% endfor %}

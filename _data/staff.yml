@@ -1,0 +1,43 @@
+- id: "jason"
+  name: Jason Moss
+  adjectives: "detailed, extroverted, balanced"
+  favourite_movie: "Gladiator"
+  favourite_person: "Hunter S. Thompson.  I'm not sure I would survive the night, but I guarantee it would be insanely memorable."
+  skill: "How to shoot pool." 
+  surprise: "I have a list of every book I have read and every movie I have seen since 1983."
+  twitter: "thisismetis"
+  linkedin: "http://www.linkedin.com/pub/jason-moss/3/90/24/"
+  other: "www.billiardsmovies.com" 
+
+- id: "goose"
+  name: Matthew Mongeau
+  adjectives: "developer, artist, minimalist"
+  favourite_movie: "Kill Bill"
+  favourite_person: "Richard Feynman, so we could make physics jokes together."
+  skill: "How to fold an origami crane." 
+  surprise: "I auditioned for the role of Alfalfa in the 1994 version of the Little Rascals."
+  twitter: "thisismetis"
+  linkedin: "www.linkedin.com/in/mattmongeau/"
+  other: "halogenandtoast.com" 
+
+- id: "josh"
+  name: Josh Steiner
+  adjectives: "optimistic, motivated, minimalist"
+  favourite_movie: "Gladiator"
+  favourite_person: "Sir Jony Ive. He's one of the best designers who ever lived. I'd love to talk to him about his process."
+  skill: "Ruby on Rails! :) Or volleyball." 
+  surprise: "Even after 6 years of Spanish (including at a college level), I still can't roll my 'r's."
+  twitter: "thisismetis"
+  linkedin: "http://www.linkedin.com/in/jrsteiner"
+  other: 
+
+- id: "laura"
+  name: Laura Montemayor
+  adjectives: ""
+  favourite_movie: "Rocky Horror Picture Show / Broken Embraces ... does Twin Peaks count?"
+  favourite_person: "Ray Kurzweil. Seeing as we're both planning on living well into our hundreds, it might be a good idea to get to know each other."
+  skill: "" 
+  surprise: ""
+  twitter: "laumontemayor"
+  linkedin: "http://www.linkedin.com/pub/laumontemayor"
+  other: "www.twogirlscode.com" 
