@@ -296,6 +296,7 @@ footer {
   top: 150px;
   margin-top: 150px;
   list-style-type: none;
+  padding-left: 0;
 }
 
 .profile-photo{
