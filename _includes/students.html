@@ -1,21 +1,11 @@
----
-layout: default
----
-
 {% for student in site.data.students %}
   <section>
-    <h2>
+    <h3>
       <a name="{{ student.id }}" class="anchor" href="#{{ student.id }}"><span class="octicon octicon-link"></span></a>{{ student.name }}
-    </h2>
-
-    <div class="social">
-      <a href="">Twitter</a>
-      <a href="">Facebook</a>
-      <a href="">Linkedin</a>
-    </div>
+    </h3>
     
     <p><em>{{ student.adjectives }}</em></p>
-    <p><img class="profile-photo" src="images/{{ student.id }}.jpg"></p>
+    <p><img src="images/{{ student.id }}.jpg"></p>
     <p><strong>What's your favourite movie?</strong></p>
     <p>{{ student.favourite_movie }}</p>
     

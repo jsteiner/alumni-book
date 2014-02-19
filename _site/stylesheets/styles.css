@@ -95,13 +95,13 @@ img {
   max-width:100%;
 }
 
-img.resize{
-    width:540px; 
-    height: auto;
+img.resize {
+  width: 540px;
+  height: auto;
 }
 
 header {
-  width:270px;
+  width:200px;
   float:left;
   position:fixed;
 }
@@ -123,7 +123,7 @@ header ul {
   border-radius:5px;
   border:1px solid #d2d2d2;
   box-shadow:inset #fff 0 1px 0, inset rgba(0,0,0,0.03) 0 -1px 0;
-  width:270px;
+  width:200px;
 }
 
 header li {
@@ -165,7 +165,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:570px;
   float:right;
   padding-bottom:50px;
 }
@@ -182,7 +182,7 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:200px;
   float:left;
   position:fixed;
   bottom:50px;
@@ -257,4 +257,18 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+.left-content {
+  width:200px;
+  float:left;
+  position:fixed;
+}
+
+#students-menu {
+  top: 150px;
+}
+
+.profile-photo {
+  max-height: 300px;
 }

@@ -1,0 +1,31 @@
+- id: "adam"
+  name: Adam Patterson
+  adjectives: "Curious, introverted, personable"
+  favourite_movie: Shaun of the Dead
+  favourite_person: "Joseph Campbell. As someone embarking on a journey that will ideally alter my path for the better, I would love to learn and receive guidance from a man that examined who we are at our core and why we seek what we seek. I believe that many (if not all) of us in this program are here because it is the next step in discovering our own path, and I am certainly no different."
+  skill: "How to slap and pop on a bass guitar."
+  surprise: "I am unable to ride a bicycle."
+
+- id: "alex"
+  name: Alex Fox
+  adjectives: "night owl, savvy, morbid"
+  favourite_movie: "The Departed / The Big Lebowski"
+  favourite_person: "I'd like to have dinner with Winston Churchill. He was an incredibly smart man and a great leader, and I've read that he was quite the jokester as well. We'd have a good dinner, probably some delicious steaks, medium rare, and we'd dine at Buckingham Palace. Afterwards, we'd smoke a cigar and drink whiskey, while discussing the politics of Nazi Germany and WW2 wartime strategies."
+  skill: "Draw cubes...make egg drop ramen...start a fire with some logs, lighter fluid, and a match...yeah, I'm pretty skilled."
+  surprise: "I'm terrible at math. Writing is my forte, I have a degree in History. People are surprised to hear this when I say I want to go into the computer programming field."
+
+- id: "david"
+  name: David Gilligan
+  adjectives: "queer, quirky, quick-witted"
+  favourite_movie: "Requiem for a Dream / Fight Club / V for Vendetta"
+  favourite_person: Tesla
+  skill: "How to take over the world. Board games (all of them). Detecting logical fallacies. How to be a cat. How to avoid stupid political conversations. How to be awesome. Warhammer. Magic. How to be a (censored) sorcerer. How to drop mad rhymes (but for real). What irony actually means. The art of word play. The dangers of poor grammar. How to light fireworks with cigars. Flaming tennis. (censored)"
+  surprise: "I got a different friend to fill out each of the previous questions (Some of them were edited for content or clarity, and it seems my friend who answered the 'skills' question enjoys breaking the rules...) I think I learned a little about myself in the process, and hopefully you've learned a little about me too!"
+
+- id: "derek"
+  name: Derek Kaknes
+  adjectives: "Mathematical, Inquisitive, Quiet"
+  favourite_movie: "Monty Python and the Holy Grail"
+  favourite_person: "I would have to choose Hernan Cortes. I read a biography of Cortes and was blown away by his story - he led a small group of Spaniards deep into Mexico to topple the Aztec empire and capture their capital city, which was the largest city in the world at the time. The man was certainly flawed and committed some terrible atrocities, but his sheer audacity, determination and fanatical religious devotion were astounding. It's hard to admire a man like that, but I can't think of a person who would provide more interesting dinner conversation than Cortes."
+  skill: "Investment banking! Our modern financial system is so incredibly screwed up that I think it imperative that every person with a bank account understands exactly how their deposits are being whisked across the globe by their banks."
+  surprise: "I'm an identical twin. My twin brother, Nick, is a medical resident in Miami, FL."
