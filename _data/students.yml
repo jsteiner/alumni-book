@@ -33,7 +33,7 @@
 
 - id: "derek"
   name: Derek Kaknes
-  adjectives: "Mathematical, Inquisitive, Quiet"
+  adjectives: "mathematical, inquisitive, quiet"
   favourite_movie: "Monty Python and the Holy Grail"
   favourite_person: "I would have to choose Hernan Cortes. I read a biography of Cortes and was blown away by his story - he led a small group of Spaniards deep into Mexico to topple the Aztec empire and capture their capital city, which was the largest city in the world at the time. The man was certainly flawed and committed some terrible atrocities, but his sheer audacity, determination and fanatical religious devotion were astounding. It's hard to admire a man like that, but I can't think of a person who would provide more interesting dinner conversation than Cortes."
   skill: "Investment banking! Our modern financial system is so incredibly screwed up that I think it imperative that every person with a bank account understands exactly how their deposits are being whisked across the globe by their banks."
@@ -55,7 +55,7 @@
 
 - id: "jatin"
   name: Jatin Baharandi
-  adjectives: "adaptable, devoted, ccandid"
+  adjectives: "adaptable, devoted, candid"
   favourite_movie: "V for Vendetta"
   favourite_person: "Sir Winston Churchill. During a turbulent period in the history of humanity, Churchill captivated the entire world as the leader of the United Kingdom. He was fearless, calculated, and a wizard with his words in the geo-political arena.  Surely a person with that much clout would serve as a great dinner guest."
   skill: "How to turn one hundred dollars into zero. How survive in the wilderness, with a fully loaded RV. How to keep it real. How to live in a city with a crack-smoking mayor (TORONTO STAND UP!)." 
@@ -83,13 +83,13 @@
   skill: "Effectively interacting with the press/media." 
   surprise: "I can independently raise my right eyebrow."
   twitter: "JesseWaites"
-  linkedin: "http://www.linkedin.com/pub/jeremy-salig/1a/4b3/97a"
+  linkedin: "www.linkedin.com/profile/view?id=69029327"
   other: "https://medium.com/how-i-learned-ruby-rails/5783b7362064" 
 
 - id: "johnb"
-  name: John Bagdley
+  name: John Bagley
   adjectives: "curious, sarcastic, night-owl"
-  favourite_movie: "Step brothers"
+  favourite_movie: "Step Brothers"
   favourite_person: "Bill Clinton.  You could ask him one question, and get a long, insightful response that that takes up the rest of the night."
   skill: "How to crochet a small amigurumi animal." 
   surprise: "I used to live in Florida.  I left because I didn't like the weather."
@@ -132,11 +132,11 @@
 
 - id: "michael"
   name: Michael Langer
-  adjectives: "determined, adventurous, funny."
+  adjectives: "determined, adventurous, funny"
   favourite_movie: "Gladiator"
-  favourite_person: "Arnold schwarzenegger. He has done everything. He revolutionized weight lifting. He is a successful actor. He is a lucrative business man. And he served 8 years as a politician. I cannot imagine anyone who has experienced and done that much variety in their lives."
+  favourite_person: "Arnold Schwarzenegger. He has done everything. He revolutionized weight lifting. He is a successful actor. He is a lucrative business man. And he served 8 years as a politician. I cannot imagine anyone who has experienced and done that much variety in their lives."
   skill: "Gain 10 pounds of muscle in 8 weeks." 
-  surprise: "II plan every hour of every day out."
+  surprise: "I plan every hour of every day out."
   twitter: "Doctorlanger"
   linkedin: "http://www.linkedin.com/pub/michael-langer/8b/160/181"
   other: "http://langermichaellanger.blogspot.com" 
@@ -149,7 +149,7 @@
   skill: "How to travel using points and miles." 
   surprise: "I met my wife in a car accident."
   twitter: 
-  linkedin: "www.linkedin.com/pub/moshe-cole/8b/878/2a3/"
+  linkedin: "https://www.linkedin.com/pub/moshe-cole/8b/878/2a3"
   other: "http://www.shobayashi-kan.org"
 
 - id: "rich"
