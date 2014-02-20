@@ -34,13 +34,13 @@
 - id: "josh"
   name: Josh Steiner
   adjectives: "optimistic, motivated, minimalist"
-  favourite_movie: "Gladiator"
+  favourite_movie: "Good Will Hunting"
   favourite_person: "Sir Jony Ive. He's one of the best designers who ever lived. I'd love to talk to him about his process."
   skill: "Ruby on Rails! :) Or volleyball." 
   surprise: "Even after 6 years of Spanish (including at a college level), I still can't roll my 'r's."
   twitter: "josh_steiner"
   linkedin: "http://www.linkedin.com/in/jrsteiner"
-  other: "NA"
+  other: "http://jsteiner.me"
 
 - id: "laura"
   name: Laura Montemayor
