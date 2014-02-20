@@ -7,7 +7,7 @@
   surprise: "I am unable to ride a bicycle."
   twitter: "peterson0012"
   linkedin: "http://www.linkedin.com/pub/adam-patterson/5b/37b/614"
-  other: 
+  other: "NA"
 
 - id: "alex"
   name: Alex Fox
@@ -16,9 +16,9 @@
   favourite_person: "I'd like to have dinner with Winston Churchill. He was an incredibly smart man and a great leader, and I've read that he was quite the jokester as well. We'd have a good dinner, probably some delicious steaks, medium rare, and we'd dine at Buckingham Palace. Afterwards, we'd smoke a cigar and drink whiskey, while discussing the politics of Nazi Germany and WW2 wartime strategies."
   skill: "Draw cubes...make egg drop ramen...start a fire with some logs, lighter fluid, and a match...yeah, I'm pretty skilled."
   surprise: "I'm terrible at math. Writing is my forte, I have a degree in History. People are surprised to hear this when I say I want to go into the computer programming field."
-  twitter: 
+  twitter: "NA"
   linkedin: "http://www.linkedin.com/pub/alex-fox/20/157/185"
-  other: 
+  other: "NA"
 
 - id: "david"
   name: David Gilligan
@@ -40,7 +40,7 @@
   surprise: "I'm an identical twin. My twin brother, Nick, is a medical resident in Miami, FL."
   twitter: "StealthMountain"
   linkedin: "http://www.linkedin.com/pub/adam-patterson/5b/37b/614"
-  other: 
+  other: "NA"
 
 - id: "dorothy"
   name: Dorothy Thurston
@@ -49,9 +49,9 @@
   favourite_person: "No one! Breakfast is the best meal of the day. I would, however, have breakfast with Lincoln. "
   skill: "How to roll your r's" 
   surprise: "I've never had a pet dog or cat."
-  twitter: 
-  linkedin: 
-  other:
+  twitter: "NA"
+  linkedin: "NA"
+  other: "NA"
 
 - id: "jatin"
   name: Jatin Baharandi
@@ -62,7 +62,7 @@
   surprise: "I have training in classical Indian drumming and can break it down!"
   twitter: "g2jatin"
   linkedin: "http://www.linkedin.com/in/jatinbhandari"
-  other:  
+  other: "NA"
 
 - id: "jeremy"
   name: Jeremy Salig
@@ -73,7 +73,7 @@
   surprise: "I've driven across the country 4 times. The last time I did it completely on my own."
   twitter: "jeremysalig"
   linkedin: "http://www.linkedin.com/pub/jeremy-salig/1a/4b3/97a"
-  other:  
+  other: "NA"
 
 - id: "jesse"
   name: Jesse Waites
@@ -95,7 +95,7 @@
   surprise: "I used to live in Florida.  I left because I didn't like the weather."
   twitter: "wildcard76"
   linkedin: "http://www.linkedin.com/in/johnbagley"
-  other:  
+  other: "NA"
 
 - id: "johnm"
   name: John Mazzoli 
@@ -106,7 +106,7 @@
   surprise: "I hate peanut butter."
   twitter: "John_Mazzoli"
   linkedin: "http://www.linkedin.com/profile/view?id=261002301&trk=nav_responsive_tab_profile"
-  other:  
+  other: "NA" 
 
 - id: "justin"
   name: Justin Kenyon 
@@ -128,7 +128,7 @@
   surprise: "Despite being clumsy and artistically-challenged, I'm quite crafty.  My kids and I have made over 50 duct tape wallets and have knit dozens of hats/scarves/slippers.  We make origami Christmas tree ornaments and Halloween costumes every year. Just don't ask me to draw."
   twitter: "jplisamaria"
   linkedin: "http://www.linkedin.com/pub/lisa-maria-mehta/69/bba/a37/"
-  other: 
+  other: "NA"
 
 - id: "michael"
   name: Michael Langer
@@ -148,7 +148,7 @@
   favourite_person: "I would have dinner with Chotoku Kyan. Mr. Kyan was one of the greatest Okinawan masters and standing at 4'9 and a hefty 90lbs reportedly never lost a fight. He was also known for being kind and generous. Mr. Kyan is said to have died from starvation after the Battle of Okinawan due to giving his food to hungry children."
   skill: "How to travel using points and miles." 
   surprise: "I met my wife in a car accident."
-  twitter: 
+  twitter: "NA"
   linkedin: "https://www.linkedin.com/pub/moshe-cole/8b/878/2a3"
   other: "http://www.shobayashi-kan.org"
 
@@ -161,7 +161,7 @@
   surprise: "I hate driving more than just about anything else in the entire world."
   twitter: "BostonREB99"
   linkedin: "http://www.linkedin.com/pub/richard-bowman/5/856/288"
-  other: 
+  other: "NA"
 
 - id: "sonia"
   name: Sonia Espinosa
@@ -172,4 +172,4 @@
   surprise: "I love hot chocolate."
   twitter: "xtabayy"
   linkedin: "http://www.linkedin.com/profile/view?id=102687301&trk=nav_responsive_tab_profile"
-  other: 
+  other: "NA"
