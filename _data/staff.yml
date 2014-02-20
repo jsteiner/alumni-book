@@ -9,6 +9,17 @@
   linkedin: "http://www.linkedin.com/pub/jason-moss/3/90/24/"
   other: "http://www.billiardsmovies.com" 
 
+- id: "bernardo"
+  name: Bernardo Rodriguez
+  adjectives: "optimistic, determined, day dreamer"
+  favourite_movie: "Pulp Fiction"
+  favourite_person: "George Orwell, over Scotch in Barcelona, to chat about the Spanish Civil war."
+  skill: "Train to run 6.2 miles in 40 minutes" 
+  surprise: "I have Spanish olive oil, Parmesan and red wine (or Scotch) every day."
+  twitter: "bdo"
+  linkedin: "http://www.linkedin.com/in/bernardorodriguez"
+  other: 
+
 - id: "goose"
   name: Matthew Mongeau
   adjectives: "developer, artist, minimalist"
